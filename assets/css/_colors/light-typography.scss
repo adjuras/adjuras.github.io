@@ -27,10 +27,13 @@
   --btn-box-shadow: #eaeaea;
 
   /* Sidebar */
+  /* Original colors
   --sidebar-bg: radial-gradient(
     circle,
     rgba(42, 30, 107, 1) 0%,
     rgba(35, 37, 46, 1) 100%);
+    */
+  --sidebar-bg: linear-gradient(to top, #1e3c72 0%, #1e3c72 1%, #2a5298 100%);
   --nav-cursor-color: #fcfcfc;
 
   /* Topbar */
